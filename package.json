@@ -1,0 +1,23 @@
+{
+  "name": "privy-relay",
+  "version": "1.0.0",
+  "description": "privy with relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrblueblue/privy-relay.git"
+  },
+  "author": "Jonathan Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrblueblue/privy-relay/issues"
+  },
+  "homepage": "https://github.com/mrblueblue/privy-relay#readme",
+  "dependencies": {
+    "react-native": "node_modules/react-native",
+    "relay": "node_modules/relay"
+  }
+}
